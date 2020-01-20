@@ -325,7 +325,7 @@ export default connect(
     })
 )(App);
 ```
-![](https://github.com/teapot-py/img-list/blob/master/react-demo/WX20190118-194149@2x.png?raw=true)
+
 
 点击旁边的数字会不断地+1
 
